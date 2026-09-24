@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/999Toth999/free-antigravity/main/docs/banner.png" alt="free-antigravity — Antigravity CLI with OpenCode Zen free models" width="800">
+</div>
+
 <h1 align="center">free-antigravity</h1>
 
 <p align="center">
@@ -57,7 +61,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/djeliteglobal/free-antigravity.git
+git clone https://github.com/999Toth999/free-antigravity.git
 cd free-antigravity
 bash install.sh
 free-antigravity
