@@ -1,0 +1,37 @@
+{
+  "models": [
+    {
+      "name": "models/zen-free-bigpickle",
+      "displayName": "Zen Free: big-pickle (opencode)",
+      "description": "OpenCode Zen free tier via local fingerprint adapter (127.0.0.1:4011)",
+      "provider": "custom",
+      "apiKey": "none",
+      "apiUrl": "http://127.0.0.1:4011",
+      "externalModelName": "big-pickle",
+      "maxOutputTokens": 4095,
+      "maxContextTokens": 200000
+    },
+    {
+      "name": "models/zen-free-mimo-v25",
+      "displayName": "Zen Free: Mimo V2.5 (opencode)",
+      "description": "OpenCode Zen free tier via local fingerprint adapter (127.0.0.1:4011)",
+      "provider": "custom",
+      "apiKey": "none",
+      "apiUrl": "http://127.0.0.1:4011",
+      "externalModelName": "mimo-v2.5-free",
+      "maxOutputTokens": 4095,
+      "maxContextTokens": 200000
+    },
+    {
+      "name": "models/zen-free-nemotron",
+      "displayName": "Zen Free: Nemotron 3.5 Lightning (opencode)",
+      "description": "OpenCode Zen free tier via local fingerprint adapter (127.0.0.1:4011)",
+      "provider": "custom",
+      "apiKey": "none",
+      "apiUrl": "http://127.0.0.1:4011",
+      "externalModelName": "nemotron-3.5-lightning-free",
+      "maxOutputTokens": 4095,
+      "maxContextTokens": 200000
+    }
+  ]
+}
